@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/10/2018, 13:49:33
+    Author     : felipe
+*/
+.cad{
+    background-color: white;
+    width: 35%;
+    padding: 2% 2% 2% 2%;
+    border-radius: 10px;
+}
+.selMod{
+    padding-bottom: 0.5em;
+    margin-left: 0.3em;
+}
+.recPass{
+    width: 27%;
+    background-color: white;
+    padding: 2% 2% 2% 2%;
+    border-radius: 10px;
+}
+.textPass{
+    padding-bottom: 1em;
+}
+.colocar{
+    width: 100vw;
+    height: 100vh;
+    background-image:  url('../images/mountains.jpg');
+    background-size: 100% 100%;
+}
+
+.meucontainer{
+  width: 100%;  
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
